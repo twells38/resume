@@ -1,0 +1,23 @@
+img {
+  width: 150px;
+  height: auto;
+}
+.phone {
+  width: 20px;
+  height: auto;
+}
+.mail {
+  width: 30px;
+  height: auto;
+}
+.address {
+  width: 30px;
+  height: auto;
+}
+.item-img {
+  width: 40px;
+  margin-top: -10px;
+}
+.fs {
+  font-size: 0.9rem;
+}

@@ -21,3 +21,8 @@ img {
 .fs {
   font-size: 0.9rem;
 }
+@media only screen and (min-width: 768px) {
+  .item-img {
+    width: 30px;
+  }
+}

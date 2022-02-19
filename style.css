@@ -21,6 +21,10 @@ img {
 .fs {
   font-size: 0.9rem;
 }
+.pt{
+  margin-top: -3px;
+}
+
 @media only screen and (min-width: 768px) {
   .item-img {
     width: 30px;
